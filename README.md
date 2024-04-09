@@ -8,14 +8,10 @@ Você foi contratado para desenvolver um painel administrativo para uma faculdad
 
 ### Tela de Cadastro e Listagem de Alunos:
 
-- Permita cadastrar novos alunos, incluindo informações como nome, e-mail e curso.
-- Exiba uma lista paginada de alunos, com 10 alunos por página.
+- Crie um formulário para cadastrar novos alunos, incluindo informações como nome, e-mail e curso. (Não será necessário criar ação no formulário, formulário servirá apenas para avaliação de responsividade).
+
 - Utilize a API `https://randomuser.me/api/?results=50` ou outra API de sua escolha para obter dados simulados de alunos. Alternativamente, você pode usar a biblioteca Faker.js (https://fakerjs.dev/) para gerar dados fictícios.
-
-### Tela de Cadastro e Listagem de Cursos:
-
-- Ofereça a funcionalidade de cadastrar novos cursos, com informações como nome, professor responsável e descrição.
-- Exiba uma lista de cursos cadastrados.
+- Exiba uma lista paginada de alunos, com 10 alunos por página.
 
 ## Detalhes Técnicos
 
